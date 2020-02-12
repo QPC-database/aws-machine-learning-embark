@@ -10,5 +10,5 @@ This repository contains the lecture slides and notebooks associated with the ha
 
 ## License
 
-The license for this repository depends on the section.  Data set for the course is being provided to you by permission of Amazon and is subject to the terms of the Amazon License and Access (available at https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000). You are expressly prohibited from copying, modifying, selling, exporting or using this data set in any way other than for the purpose of completing this course. The lecture slides are released under the CC-BY-SA-4.0 License.  The code examples are released under the MIT-0 License. See each section's LICENSE file for details.
+The license for this repository depends on the section.  Data set for the course is being provided to you by permission of Amazon and is subject to the terms of the [Amazon License and Access](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000). You are expressly prohibited from copying, modifying, selling, exporting or using this data set in any way other than for the purpose of completing this course. The lecture slides are released under the CC-BY-SA-4.0 License.  The code examples are released under the MIT-0 License. See each section's LICENSE file for details.
 
